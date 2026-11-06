@@ -46,8 +46,8 @@ Specializing in **SaaS Products**, **Chrome Extensions (Manifest V3)**, and **Fu
 - **[Facebook Auto Video Uploader](https://github.com/ShahbazAhmadMazari/Projects/tree/main/FB%20Auto%20Uploader)**
   *Chrome extension automating scheduled video uploads to Facebook Pages.*
 
-- **[NextGen LMS: AI Powered Tutoring & Blockchain Credentials](https://nextgen-lms-navy.vercel.app/)**
-  *Final Year Project — AI tutoring platform with blockchain-verified credentials, showcased to industry leaders at KFUEIT's 2nd Industrial Open House & Career Fair 2026. Frontend live on Vercel.*
+- **[NextGen LMS: AI Powered Tutoring & Blockchain Credentials](https://github.com/ShahbazAhmadMazari/Nextgen-LMS)**
+  *Final Year Project — AI tutoring platform with blockchain-verified credentials, showcased to industry leaders at KFUEIT's 2nd Industrial Open House & Career Fair 2026. Frontend [live on Vercel](https://nextgen-lms-navy.vercel.app/) — link inside the repo README.*
 
 - **[Interactive Engineering & Portfolio Platform](https://shahbaz-ahmad-mazari.vercel.app/)**
   *Production portfolio showcasing SaaS products, Chrome extensions, and full-stack systems.*
