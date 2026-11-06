@@ -37,7 +37,7 @@ Specializing in **SaaS Products**, **Chrome Extensions (Manifest V3)**, and **Fu
 - **[FreelancerPK Auto Bidder](https://chromewebstore.google.com/detail/dneahobjebpgpllgnlgpfigkdplbjenp)**
   *Launched SaaS product on the Chrome Web Store (v2.0.1, 5★ rated). AI-powered auto bidding for freelancer.pk with real-time logging and safety controls.*
 
-- **[Fiverr Inbox Notifier](https://chromewebstore.google.com/detail/ioohgofepmocbefekcfpphjononkobdj?utm_source=item-share-cp)**
+- **[Fiverr Inbox Notifier](https://chromewebstore.google.com/detail/ioohgofepmocbefekcfpphjononkobdj?utm_source=item-share-cb)**
   *Chrome extension playing a loud custom ringtone on new Fiverr messages, inbox updates & order notifications; volume amplifier up to 300%.*
 
 - **[Doctor AI Chatbot](https://github.com/ShahbazAhmadMazari/Doctor-AI-Chatbot-Full-Stack-Web-App-)**
