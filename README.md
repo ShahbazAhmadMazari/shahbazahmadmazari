@@ -37,14 +37,14 @@ Specializing in **SaaS Products**, **Chrome Extensions (Manifest V3)**, and **Fu
 - **[FreelancerPK Auto Bidder](https://chromewebstore.google.com/detail/dneahobjebpgpllgnlgpfigkdplbjenp)**
   *Launched SaaS product on the Chrome Web Store (v2.0.1, 5★ rated). AI-powered auto bidding for freelancer.pk with real-time logging and safety controls.*
 
+- **[Fiverr Inbox Notifier](https://chromewebstore.google.com/detail/ioohgofepmocbefekcfpphjononkobdj)**
+  *Chrome extension playing a loud custom ringtone on new Fiverr messages, inbox updates & order notifications; volume amplifier up to 300%.*
+
 - **[Doctor AI Chatbot](https://github.com/ShahbazAhmadMazari/Doctor-AI-Chatbot-Full-Stack-Web-App-)**
   *Full-stack conversational AI healthcare chatbot with context-aware responses over a REST API.*
 
 - **[Facebook Auto Video Uploader](https://github.com/ShahbazAhmadMazari/Projects/tree/main/FB%20Auto%20Uploader)**
   *Chrome extension automating scheduled video uploads to Facebook Pages.*
-
-- **[Fiverr Inbox Notifier](https://chromewebstore.google.com/detail/ioohgofepmocbefekcfpphjononkobdj)**
-  *Chrome extension playing a loud custom ringtone on new Fiverr messages, inbox updates & order notifications; volume amplifier up to 300%.*
 
 - **[NextGen LMS: AI Powered Tutoring & Blockchain Credentials](https://nextgen-lms-navy.vercel.app/)**
   *Final Year Project — AI tutoring platform with blockchain-verified credentials, showcased to industry leaders at KFUEIT's 2nd Industrial Open House & Career Fair 2026. Frontend live on Vercel.*
