@@ -6,7 +6,7 @@
 
 Specializing in **SaaS Products**, **Chrome Extensions (Manifest V3)**, and **Full-Stack & AI Systems**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shahbaz--ahmad--mazari.vercel.app-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://shahbaz-ahmad-mazari.vercel.app/) [![Email](https://img.shields.io/badge/Email-shahbaz.ahmad.mazari10%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:shahbaz.ahmad.mazari10@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-shahbaz--ahmad--mazari-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shahbaz-ahmad-mazari-86a196247/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shahbaz--ahmad--mazari.vercel.app-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://shahbaz-ahmad-mazari.vercel.app/) [![Email](https://img.shields.io/badge/Email-shahbaz.ahmad.mazari10%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:shahbaz.ahmad.mazari10@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-shahbaz--ahmad--mazari-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shahbaz-ahmad-mazari-86a196247/) [![CV](https://img.shields.io/badge/CV-Download-2563EB?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://shahbaz-ahmad-mazari.vercel.app/Shahbaz_Ahmad_Mazari_CV.pdf)
 
 ---
 
@@ -43,11 +43,26 @@ Specializing in **SaaS Products**, **Chrome Extensions (Manifest V3)**, and **Fu
 - **[Facebook Auto Video Uploader](https://github.com/ShahbazAhmadMazari/Projects/tree/main/FB%20Auto%20Uploader)**
   *Chrome extension automating scheduled video uploads to Facebook Pages.*
 
-- **NextGen LMS: AI Powered Tutoring & Blockchain Credentials**
-  *Final Year Project — AI tutoring platform with blockchain-verified credentials, showcased to industry leaders at KFUEIT's 2nd Industrial Open House & Career Fair 2026.*
+- **[Fiverr Inbox Notifier](https://chromewebstore.google.com/detail/ioohgofepmocbefekcfpphjononkobdj)**
+  *Chrome extension playing a loud custom ringtone on new Fiverr messages, inbox updates & order notifications; volume amplifier up to 300%.*
+
+- **[NextGen LMS: AI Powered Tutoring & Blockchain Credentials](https://nextgen-lms-navy.vercel.app/)**
+  *Final Year Project — AI tutoring platform with blockchain-verified credentials, showcased to industry leaders at KFUEIT's 2nd Industrial Open House & Career Fair 2026. Frontend live on Vercel.*
 
 - **[Interactive Engineering & Portfolio Platform](https://shahbaz-ahmad-mazari.vercel.app/)**
   *Production portfolio showcasing SaaS products, Chrome extensions, and full-stack systems.*
+
+### 📂 More Projects on GitHub
+
+- **[BBMS](https://github.com/ShahbazAhmadMazari/Projects/tree/main/BBMS)** — Database management system with SQL scripts and documentation.
+- **[Google Meet Extension](https://github.com/ShahbazAhmadMazari/Projects/tree/main/Google_meet_Extension)** — Chrome extension for Google Meet.
+- **[Loan Approval System](https://github.com/ShahbazAhmadMazari/Projects/tree/main/Loan%20Approval%20System)** — Loan approval system with Flask implementation and Jupyter Notebook analysis.
+- **[Online Quiz Website](https://github.com/ShahbazAhmadMazari/Projects/tree/main/Online%20Quiz%20Website)** — Quiz website with admin panel and login/signup (PHP + MySQL).
+- **[Web Safe Search](https://github.com/ShahbazAhmadMazari/Projects/tree/main/Web_Safe_Search)** — Chrome extension for safe search with warnings.
+- **[Zillow Scrapper](https://github.com/ShahbazAhmadMazari/Projects/tree/main/Zillow%20Scrapper)** — Chrome extension scraping Zillow listings and exporting them to Excel.
+- **[Amazon to eBay Listing Extension](https://github.com/ShahbazAhmadMazari/Projects/blob/main/Amazon%20to%20Ebay%20Listing%20Extension%20project.zip)** — Chrome extension project converting Amazon listings to eBay.
+
+… and many more on [GitHub](https://github.com/ShahbazAhmadMazari).
 
 ---
 
